@@ -1,2 +1,2 @@
 # CoNFies Website
-project page for CoNFies paper
+project page for CoNFies paper (FG 2023)
